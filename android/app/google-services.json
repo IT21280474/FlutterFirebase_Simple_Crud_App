@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691899404781",
+    "project_id": "fierbasetutorial-d4e85",
+    "storage_bucket": "fierbasetutorial-d4e85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691899404781:android:be9d9eb45fbdaf82cbd7e4",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTqeK95KtkMCN_iiGP3ywQbgzjTpMT_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
