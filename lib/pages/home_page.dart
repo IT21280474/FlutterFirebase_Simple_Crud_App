@@ -43,7 +43,7 @@ class _HomePageState extends State<HomePage> {
             //close the box
             Navigator.pop(context);
           },
-         child: Text("Add"),
+         child: Text(""),
          )
       ],
       ),
